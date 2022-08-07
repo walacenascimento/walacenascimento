@@ -4,7 +4,7 @@
     <li>- 🎓 Estudante de desenvolimento Web Full Stack | <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Atualmente estou aprendendo TypeScript</li>
     <li>- 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
-    <li>- ⚡ Fun fact: ⚽ Futebol</li>
+    <li>- ⚡ Fun fact: ⚽ Futebol & 🏃🏿Corrida </li>
     <!-- <li>- 🔭 </li> -->
   </div>
 </div>
