@@ -1,5 +1,5 @@
-### 👋 Olá! Eu sou Walace Nascimento.
-## Bem vindo ao meu perfil GitHub
+# 👋 Olá! Eu sou Walace Nascimento.
+### Bem vindo ao meu perfil GitHub
 
 <div align="center">
   <div align="left" style="display: inline_block">
