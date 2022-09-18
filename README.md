@@ -4,9 +4,9 @@
   <div align="left" style="display: inline_block">
     <li> 🎓 Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.<br>
       A <a href="https://betrybe.com">Trybe</a> é uma escola que ensina a programar e a aprender. Possui uma metodologia ativa de ensino, evidenciando atividades que focam na prátia.
-      São mais de 1.500 horas com aulas ao vivo e vários projetos práticos, individuais e em grupo, além de focar no desenvolvimento pessoal(Soft skils) de cada estudante.
+      São mais de 1.500 horas com aulas ao vivo e vários projetos práticos, individuais e em grupo, além de focar no desenvolvimento pessoal (Soft skils) de cada pessoa estudante.
     </li>
-    <li> 🌱 Atualmente estou no módulo-04/04 do curso,(Ciências da Computação) e estou aprendendo Python.</li>
+    <li> 🌱 Atualmente estou no módulo-04/04(Ciências da Computação) e estou aprendendo Python.</li>
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ Fun fact: ⚽ Futebol & 🏃🏿Corrida </li>
     <!-- <li>- 🔭 </li> -->
@@ -14,10 +14,9 @@
 </div>
 
 ##
-    
- ### Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+ ### Tecnologias e Ferramentas:
+<div style="display: inline_block">
   <!-- fundamentos do desenvolvimento web -->
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white">
@@ -40,7 +39,6 @@
   ##
  
   ### Contatos:
-  
   <div style="display: inline_block">
     <a href="https://linkedin.com/in/walace-nascimento-b53280245"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:wlacens@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
