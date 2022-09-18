@@ -1,12 +1,15 @@
-# 👋 Olá! Eu sou Walace Nascimento.
-### Bem vindo ao meu perfil GitHub
+# 👋 Olá, eu sou Walace Nascimento!
+### Bem vindo ao meu perfil GitHub.
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 🎓 Estudante de desenvolimento Web Full Stack | <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Atualmente estou aprendendo TypeScript</li>
-    <li>- 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
-    <li>- ⚡ Fun fact: ⚽ Futebol & 🏃🏿Corrida </li>
+    <li> 🎓 Atualmente estou estundando desenvolimento Web Full Stack | <a href="https://betrybe.com">Trybe</a><br>
+    A <a href="https://betrybe.com">Trybe</a> é uma escola que ensina a programar e a aprender. Possui uma metodologia ativa de ensino, evidenciando atividades que focam na prátia.
+      São mais de 1.500 horas com aulas ao vivo e um total de 36 projetos práticos, individuais e em grupo, além de focar no desenvolvimento pessoal(Soft skils) de cada pessoa estudante.
+    </li>
+    <li> 🌱 Atualmente estou aprendendo TypeScript</li>
+    <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
+    <li> ⚡ Fun fact: ⚽ Futebol & 🏃🏿Corrida </li>
     <!-- <li>- 🔭 </li> -->
   </div>
 </div>
