@@ -2,7 +2,7 @@
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li> 🎓 Estou estundando desenvolimento Web Full Stack | <a href="https://betrybe.com">Trybe</a><br>
+    <li> 🎓 Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.<br>
       A <a href="https://betrybe.com">Trybe</a> é uma escola que ensina a programar e a aprender. Possui uma metodologia ativa de ensino, evidenciando atividades que focam na prátia.
       São mais de 1.500 horas com aulas ao vivo e vários projetos práticos, individuais e em grupo, além de focar no desenvolvimento pessoal(Soft skils) de cada estudante.
     </li>
@@ -18,8 +18,14 @@
  ### Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- fundamentos do desenvolvimento web -->
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"><br>
+  <!-- Desenvolvimento Front-End -->
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
