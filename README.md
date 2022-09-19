@@ -8,8 +8,8 @@
     </li>
     <li> 🌱 Atualmente estou no módulo-04/04(Ciências da Computação) e estou aprendendo Python.</li>
     <li> 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
-    <li> ⚡ Fun fact: ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
-    <!-- <li>- 🔭 </li> -->
+    <li> ⚡ hobby: ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
+    <li> ✊🏿 Black Lives Matter </li>
   </div>
 </div>
 
