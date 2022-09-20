@@ -28,15 +28,13 @@
   <!-- Desenvolvimento Front-End -->
   <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  
+  <br>
   <!--
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="TestingLibrary" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
   -->
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"><br>
-  
   <!-- Desenvolvimento Back-End -->
   <img alt="Docker" src="https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -51,6 +49,7 @@
   <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
   <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
   <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <img alt="" src="">
   <img alt="" src=""><br>
   <!-- Ciências da Computação -->
