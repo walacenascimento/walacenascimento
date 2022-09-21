@@ -45,9 +45,11 @@
   <img alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="MongoBD" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <!-- 
   <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
   <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
   <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
+  -->
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <br>
   <!-- Ciências da Computação -->
