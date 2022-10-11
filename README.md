@@ -18,9 +18,19 @@
  ### Tecnologias e Ferramentas:
  
  ##
- 
- [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
- 
+ <!--
+para adicionar badge com link clicável
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
+
+para adicionar badge sem link clicável, recomendável, envolver tudo em uma div
+<div style="display: inline_block">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+para inserir o Stats
+![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
+ -->
  
 <div style="display: inline_block">
   <!-- fundamentos do desenvolvimento web -->
@@ -85,6 +95,7 @@
 
 <!-- STAR -->
 <div align="center">
+   
   <a href="https://github.com/walacenascimento">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact&langs_count=7&theme=merko"/
