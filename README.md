@@ -9,7 +9,6 @@
     <li> 🌱 - Atualmente estou no módulo de Ciências da Computação - (04/04) e estou aprendendo Python.</li>
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
-    <li> ✊🏿 - Black Lives Matter! </li>
   </div>
 </div>
 
