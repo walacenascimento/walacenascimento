@@ -4,9 +4,7 @@
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 
 </div>
-<div align="center">
   <div align="left" style="display: inline_block">
-   <div align="center">
     <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
     <li> 🌱 - Atualmente estou no módulo de Ciências da Computação e estou aprendendo Python.</li>
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
@@ -15,14 +13,11 @@
 </div>
 
 ##
-
-  <div align="center">
   
   ### Contatos:
   
-  </div>
-  <div align="center">
-    <a href="https://linkedin.com/in/walace-nascimento-b53280245"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <div style="display: inline_block">
+  <a href="https://linkedin.com/in/walace-nascimento-b53280245"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:wlacens@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5573999898281&text=">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -33,11 +28,10 @@
 
 ##
 
-<div align="center">
   
    ### Ferramentas e Tecnologias que utilizo :
 
-  <div align="center">
+  <div style="display: inline_block">
  <!--
 para adicionar badge com link clicável
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
