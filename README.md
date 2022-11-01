@@ -1,4 +1,3 @@
-<div align="center">
   
 ## 👋 Olá, eu sou Walace Nascimento!
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
