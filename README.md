@@ -16,6 +16,7 @@
   ### Contatos:
   
  <div style="display: inline_block">
+  <a href="https://pt.wikipedia.org/wiki/Una" target="_blank">Una-BA</a>,
   <a href="https://linkedin.com/in/walace-nascimento-b53280245"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   <a href="mailto:wlacens@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5573999898281&text=">
