@@ -14,10 +14,10 @@
 ##
   
   ### Contatos:
-  
+  <!--
   [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
-  
   [![Instagran](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walace-nascimento-b53280245)
+-->
   
  <div style="display: inline_block">
   <a href="https://linkedin.com/in/walace-nascimento-b53280245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
