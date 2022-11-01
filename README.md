@@ -1,5 +1,9 @@
+<div align="center">
+  
 ## 👋 Olá, eu sou Walace Nascimento!
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
+
+</div>
 <div align="center">
   <div align="left" style="display: inline_block">
     <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
@@ -11,8 +15,12 @@
 
 ##
 
- ### Contatos:
-  <div style="display: inline_block">
+  <div align="center">
+  
+  ### Contatos:
+  
+  </div>
+  <div align="center">
     <a href="https://linkedin.com/in/walace-nascimento-b53280245"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:wlacens@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5573999898281&text=">
@@ -24,8 +32,11 @@
 
 ##
 
- ### Ferramentas e Tecnologias que utilizo :
- 
+<div align="center">
+  
+   ### Ferramentas e Tecnologias que utilizo :
+
+  <div align="center">
  <!--
 para adicionar badge com link clicável
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
@@ -40,7 +51,7 @@ para inserir o Stats
 ![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
  -->
  
-<div style="display: inline_block">
+<div align="center">
   <!-- fundamentos do desenvolvimento web -->
   <img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" align="center"/>
   <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
