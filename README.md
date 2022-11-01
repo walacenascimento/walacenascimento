@@ -2,11 +2,8 @@
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.<br>
-      A <a href="https://betrybe.com">Trybe</a> é uma escola que ensina a programar e aprender. Possui uma metodologia ativa de ensino, evidenciando atividades que focam na prátia.
-      São mais de 1.500 horas com aulas ao vivo e vários projetos práticos, individuais e em grupo, além de focar no desenvolvimento pessoal (Soft skils) de cada estudante.
-    </li>
-    <li> 🌱 - Atualmente estou no módulo de Ciências da Computação - (04/04) e estou aprendendo Python.</li>
+    <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
+    <li> 🌱 - Atualmente estou no módulo de Ciências da Computação e estou aprendendo Python.</li>
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
   </div>
@@ -53,11 +50,13 @@ para inserir o Stats
   <img alt="express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" align="center">
   <!-- <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"> -->
   <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="80" height="80" align="center"/>
-  <img alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" align="center"><br>
-  <img alt="mocha.js" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
-  <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
-  <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
+  <img alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" align="center"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" align="center"/><br>
+  <!--
+  <img alt="mocha.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" align="center" />
+  <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" width="40" height="40" align="center"/>
+  <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" width="40" height="40" align="center"/>
+  -->
   
   <br>
   <!--
