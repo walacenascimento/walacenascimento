@@ -6,6 +6,7 @@
 </div>
 <div align="center">
   <div align="left" style="display: inline_block">
+   <div align="center">
     <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
     <li> 🌱 - Atualmente estou no módulo de Ciências da Computação e estou aprendendo Python.</li>
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
