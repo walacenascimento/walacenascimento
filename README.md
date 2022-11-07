@@ -84,6 +84,9 @@ para inserir o Stats
   
   ##
  
+![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
+  
+  
 <!-- STAR -->
   <!--
 <div align="center">
@@ -92,5 +95,3 @@ para inserir o Stats
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact&langs_count=7&theme=merko"/
 </div>
 --> 
-
-![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
