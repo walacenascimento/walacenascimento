@@ -2,7 +2,7 @@
 
 ## 👋 Olá, eu sou Walace Nascimento!
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
-   <img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=300&height=300" />
+   <img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=200&height=200" />
 </div>
   <div align="left" style="display: inline_block">
     <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
