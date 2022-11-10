@@ -9,8 +9,8 @@
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
   </div>
+   <img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=200&height=200" />
 </div>
-<img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=200&height=200" />
 
 ##
   
