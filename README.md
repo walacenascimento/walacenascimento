@@ -1,7 +1,8 @@
-  <img height="130px" width="130px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <img height="80px" width="80px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
 
 ## 👋 Olá, eu sou Walace Nascimento!
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
+   <img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=300&height=300" />
 </div>
   <div align="left" style="display: inline_block">
     <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
@@ -9,7 +10,6 @@
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
   </div>
-   <img align="right" src="https://media.discordapp.net/attachments/1040238981436162081/1040239149338337320/octocat-1663512749245.png?width=200&height=200" />
 </div>
 
 ##
