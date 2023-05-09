@@ -96,6 +96,11 @@ para inserir o Stats
  -->
 <!--Cobrinha-->
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
-  
+
+ <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/walacenascimento/github-readme-stats)
+-->
+ 
+ <!--Mostrando ícones-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true)
  
