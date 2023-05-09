@@ -101,6 +101,8 @@ para inserir o Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/walacenascimento/github-readme-stats)
 -->
  
- <!--Mostrando ícones-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true)
+ <!--
+Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
  
