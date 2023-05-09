@@ -97,5 +97,5 @@ para inserir o Stats
 
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/walacenascimento/github-readme-stats)
  
