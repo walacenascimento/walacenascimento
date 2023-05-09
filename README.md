@@ -94,7 +94,7 @@ para inserir o Stats
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact&langs_count=7&theme=merko"/
 </div>
  -->
-
+<!--Cobrinha-->
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/walacenascimento/github-readme-stats)
