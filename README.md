@@ -36,7 +36,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   -->
 </div>
-
+<!--
 para inserir o Stats
 ![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
  -->
