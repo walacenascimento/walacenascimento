@@ -1,6 +1,6 @@
 
 ## 👋 Olá, eu sou Walace Nascimento!
-### Desenvolvedor Web Fullstack Jr. 
+#### Desenvolvedor Web Fullstack Jr. 
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 
 </div>
@@ -13,7 +13,7 @@
 
 ##
   
-  ### Contatos:
+  #### Contatos:
 
  <div style="display: inline_block">
   <a href="https://linkedin.com/in/walace-nascimento-b53280245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,7 +28,7 @@
 ##
 
   
-   ### Ferramentas e Tecnologias que utilizo :
+   #### Ferramentas e Tecnologias que utilizo :
 
   <div style="display: inline_block">
   <!-- 
@@ -92,10 +92,6 @@ para inserir o Stats
 <!--Cobrinha-->
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
 
- <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento)](https://github.com/walacenascimento/github-readme-stats)
--->
- 
 <!--
 Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
