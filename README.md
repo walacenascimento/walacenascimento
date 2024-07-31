@@ -5,8 +5,7 @@
 
 </div>
   <div align="left" style="display: inline_block">
-    <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
-    <li> 🌱 - Atualmente estou no módulo de Ciências da Computação e estou aprendendo Python.</li>
+    <!-- <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li> -->
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
   </div>
