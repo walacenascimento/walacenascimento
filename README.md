@@ -36,8 +36,10 @@ para adicionar badge com link clicável
 
 para adicionar badge sem link clicável, recomendável, envolver tudo em uma div
 <div style="display: inline_block">
+  <!-- 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  -->
 </div>
 
 para inserir o Stats
