@@ -86,11 +86,8 @@ Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox,
 
 
 <div style="display: inline_block">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
-
-<!--
-Mostrando linguagens 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact)](https://github.com/walacenascimento/github-readme-stats)
+  <div>  
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact)](https://github.com/walacenascimento/github-readme-stats)
+  </div>
 </div>
