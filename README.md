@@ -31,17 +31,13 @@
    #### Ferramentas e Tecnologias que utilizo :
 
   <div style="display: inline_block">
-  <!-- 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  -->
 </div>
 <!--
 para inserir o Stats
 ![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
  -->
  
-<div align="center">
+<div style="display: inline_block">
   <!-- fundamentos do desenvolvimento web -->
   <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="35" height="40" align="center">
