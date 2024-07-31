@@ -1,4 +1,3 @@
-  <img height="80px" width="80px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
 
 ## 👋 Olá, eu sou Walace Nascimento!
 ### Desenvolvedor Jr. Web Full Stak 
