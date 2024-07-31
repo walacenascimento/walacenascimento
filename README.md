@@ -1,6 +1,6 @@
 
 ## 👋 Olá, eu sou Walace Nascimento!
-### Desenvolvedor Jr. Web Full Stak 
+### Desenvolvedor Web Fullstack Jr. 
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 
 </div>
