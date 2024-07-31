@@ -76,6 +76,14 @@ para inserir o Stats
   
   ##
   
+<!--Cobrinha-->
+![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+-->
+
+
 <!-- STAR -->
   
 <div align="center">
@@ -84,12 +92,7 @@ para inserir o Stats
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact&langs_count=7&theme=merko"/
 </div>
  
-<!--Cobrinha-->
-![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
 
 <!--
