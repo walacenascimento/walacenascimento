@@ -31,12 +31,6 @@
    ### Ferramentas e Tecnologias que utilizo :
 
   <div style="display: inline_block">
-    
-para adicionar badge com link clicável
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walacenascimento.una/)
-
-para adicionar badge sem link clicável, recomendável, envolver tudo em uma div
-<div style="display: inline_block">
   <!-- 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
