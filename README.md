@@ -29,9 +29,7 @@
 
   
    #### Ferramentas e Tecnologias que utilizo :
-
-  <div style="display: inline_block">
-</div>
+   
 <!--
 para inserir o Stats
 ![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
@@ -86,7 +84,8 @@ Mostrando ícones | temas integrados (por exemplo dark, radical, merko, gruvbox,
 
 <!-- STAR -->
 
-<div>
+
+<div style="display: inline_block">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
 
