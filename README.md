@@ -42,11 +42,6 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="40" align="center" />
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="35" height="40" align="center"/>
   -->
-
-
-  <img alt="MongoBD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="40" align="center">
-
-  <img alt="express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" align="center">
   
 Ferramentas:
  <div style="display: inline_block">
