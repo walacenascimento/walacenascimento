@@ -40,7 +40,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="35" height="40" align="center"/>
   -->
   <!-- Desenvolvimento Back-End -->
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="35" height="40" align="center">
+
   <!-- 
   <img alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40" align="center"/>
   -->
@@ -55,10 +55,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" width="40" height="40" align="center"/>
   -->
   <!--
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+
   -->
   </div>
 
@@ -69,7 +66,11 @@ Frameworks:
  
 Ferramentas:
  <div style="display: inline_block">
-     <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
+   <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
+   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
  </div>
 
   
