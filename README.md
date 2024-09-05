@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=600&separator=%3C&lines=%22Ol%C3%A1%2Ceu+sou+Walace+Nascimento+%F0%9F%98%8A%22%3Csou+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=600&separator=%3C&lines=%22Ol%C3%A1%2Ceu+sou+Walace+Nascimento+%F0%9F%98%8A%22%3Csou+Desenvolvedor+Web+Fullstack)](https://git.io/typing-svg)
 
 
-#### Desenvolvedor Web Fullstack
+#### 
 ## Walace Nascimento!
 "Tenho em mim todos os sonhos do mundo."<br>Fernando Pessoa
 
