@@ -57,7 +57,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   -->
   </div>
 
-### Ferramentas:
+Ferramentas:
  <div style="display: inline_block">
      <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
  </div>
