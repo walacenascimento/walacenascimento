@@ -33,6 +33,8 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <!--<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>-->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit"/>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img alt="" src=""/>
   <img alt="" src=""/>
   <img alt="" src=""/>
 
