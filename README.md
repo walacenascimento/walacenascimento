@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=600&separator=%3C&lines=%22Ol%C3%A1%2Ceu+sou+Walace+Nascimento+%3CDesenvolvedor+Web+Fullstack%F0%9F%98%8A%22)](https://git.io/typing-svg)
 
-Sou Desenvolvendor Web Fullstak, fomado pela Trybe [You can find our events here!](https://www.meetup.com/PythonMG/) em 2022
+Sou Desenvolvendor Web Fullstak, fomado pela Trybe [You can find our events here!](https://www.betrybe.com/) em 2022
 <br>
   Possuo conhecimentos em desenvolvimento web com Html, Css, JavaScript, React.js, Node.js, Express, TypeScript, MySQL, REST API, controle de versão com Git e GitHub e sistemas operacionais Windows e Linux.
 Possuo experiência em resolução de problemas e reparação de processos de sistema operacional Windows 10 e experiência em Pacote Ms Office 365. 
