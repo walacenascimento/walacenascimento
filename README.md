@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=%22Ol+%C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=%22Ol%C3)](https://git.io/typing-svg)
 
 %22Ol%C3%A1%2C%3Ceu+sou+a+carol+%F0%9F%98%8A%22
 22Ol
