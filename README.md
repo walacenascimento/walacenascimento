@@ -33,7 +33,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <!--<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>-->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
   <img alt="" src=""/>
   <img alt="" src=""/>
   <img alt="" src=""/>
@@ -49,7 +49,9 @@ Ferramentas:
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white">
  </div>
