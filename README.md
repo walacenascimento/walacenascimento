@@ -11,22 +11,8 @@
 </div>
 
 ##
-  
-  #### Contatos:
 
- <div style="display: inline_block">
-  <a href="https://linkedin.com/in/walace-nascimento-b53280245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5573999898281&text=" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <!--
-   <a href="https://instagram.com/walacenascimento.una" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    -->
-</div>
-
-##
-
-  
-   #### Ferramentas e Tecnologias que utilizo :
+ #### Ferramentas e Tecnologias que utilizo :
    
 <!--
 para inserir o Stats
@@ -69,7 +55,23 @@ para inserir o Stats
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
   -->
   </div>
+
+
   
+  #### Contatos:
+
+ <div style="display: inline_block">
+  <a href="https://linkedin.com/in/walace-nascimento-b53280245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5573999898281&text=" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <!--
+   <a href="https://instagram.com/walacenascimento.una" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    -->
+</div>
+
+##
+
+    
   ##
   
 <!--Cobrinha-->
