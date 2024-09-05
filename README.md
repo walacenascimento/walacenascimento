@@ -22,8 +22,6 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="" src=""/>
   
-  Frameworks:
-  <img alt="Teste" src="https://img.shields.io/badge/Teste-007ACC?style=for-the-badge&logo=teste&logoColor=white"/>
   <img alt="" src=""/>
   <img alt="" src=""/>
 
@@ -60,6 +58,11 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   -->
   </div>
 
+Frameworks:
+ <div style="display: inline_block">
+  <img alt="Teste" src="https://img.shields.io/badge/Teste-007ACC?style=for-the-badge&logo=teste&logoColor=white"/>   
+ </div>
+ 
 Ferramentas:
  <div style="display: inline_block">
      <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
