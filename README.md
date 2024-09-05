@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=600&separator=%3C&lines=%22Ol%C3%A1%2Ceu+sou+Walace+Nascimento+%3CDesenvolvedor+Web+Fullstack%F0%9F%98%8A%22)](https://git.io/typing-svg)
 
-<p>
   - Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   Possuo conhecimentos em desenvolvimento web com Html, Css, JavaScript, React.js, Node.js, Express, TypeScript, MySQL, REST API, controle de versão com Git e GitHub e sistemas operacionais Windows e Linux.
 Possuo experiência em resolução de problemas e reparação de processos de sistema operacional Windows 10 e experiência em Pacote Ms Office 365. 
@@ -8,7 +7,6 @@ Sou um profissional comunicativo, proativo, comprometido, analítico, possuo esc
  	Possuo vasto conhecimento em atendimento ao cliente, atuando no Suporte técnico em informática helpdesk, registrando atendimentos e atendendo chamados via multicanais como telefone, e-mail, chat, acesso remoto e WhatsApp. Realizando a abertura e o acompanhamento de tickets de atendimento, respondendo-os dentro do tempo hábil; efetuando a instalação de softwares em geral; realizando análise e ajustes para melhoria no desempenho dos equipamentos; instalando e configurando equipamento, realizando consultas no banco de dados e atualização do sistema – ERP quando necessário; 
 Atuando na identificação e resolução de processos do sistema - ERP e ministrando treinamentos a novos clientes e funcionários de cliente da base.
 Experiência também como instrutor de treinamento de sistemas ERP, além de prática com manutenção e montagem de computadores.
-</p>
 
 ##
 
