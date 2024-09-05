@@ -15,19 +15,14 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
 ##
 
  #### Linguagens e Frameworks:   
-<!--
-para inserir o Stats
-![Walace GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=dracula)
- -->
- 239120
 <div style="display: inline_block">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="" src=""/>
   <img alt="" src=""/>
    
-  <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
+
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="35" height="40" align="center">
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="35" height="40" align="center">
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="40" align="center">
@@ -62,6 +57,10 @@ para inserir o Stats
   -->
   </div>
 
+### Ferramentas:
+ <div style="display: inline_block">
+     <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
+ </div>
 
   
   #### Contatos:
