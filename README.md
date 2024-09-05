@@ -76,9 +76,3 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
 <p align="center">
  <img align="center" alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walacenascimento&theme=github_dark"/>
 </p>
-<p >
-  <br>  
-  <a href="[https://www.linkedin.com/in/walacenascimento25/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
