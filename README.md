@@ -37,6 +37,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="" src=""/>
   <img alt="" src=""/>
 
+
   <!--
   <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="40" align="center" />
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="35" height="40" align="center"/>
@@ -44,7 +45,7 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   
 Ferramentas:
  <div style="display: inline_block">
-   <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
+   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
