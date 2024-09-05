@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=%22Ol%C3%A1%2C%3C+eu+sou+o+Walace+Nascimento!+%22Ol%C3%A1%2C%3C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=%22Ol%C3%A1%2C%3C+%22Ol%C3%A1%2C%3C)](https://git.io/typing-svg)
 
 ## 👋 Olá, eu sou Walace Nascimento!
 #### Desenvolvedor Web Fullstack
