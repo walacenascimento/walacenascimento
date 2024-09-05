@@ -39,31 +39,12 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
   <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="40" align="center" />
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="35" height="40" align="center"/>
   -->
-  <!-- Desenvolvimento Back-End -->
 
-  <!-- 
-  <img alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40" align="center"/>
-  -->
   <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="50" align="center">
   <img alt="MongoBD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="40" align="center">
   <img alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" align="center">
   <img alt="express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" align="center">
-  <!-- <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"> -->
-  <!--
-  <img alt="mocha.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" align="center" />
-  <img alt="chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" width="40" height="40" align="center"/>
-  <img alt="sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" width="40" height="40" align="center"/>
-  -->
-  <!--
-
-  -->
-  </div>
-
-Frameworks:
- <div style="display: inline_block">
-  <img alt="Teste" src="https://img.shields.io/badge/Teste-007ACC?style=for-the-badge&logo=teste&logoColor=white"/>   
- </div>
- 
+  
 Ferramentas:
  <div style="display: inline_block">
    <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" align="center"/>
@@ -72,8 +53,7 @@ Ferramentas:
    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
  </div>
-
-  
+ 
   #### Contatos:
 
  <div style="display: inline_block">
