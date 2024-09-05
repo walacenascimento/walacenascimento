@@ -62,10 +62,10 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
     -->
 </div>
 
-##
-
-    
   ##
+
+  <img align='right' src="https://komarev.com/ghpvc/?username=walacenascimento&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="WNS" />
+
   
 <!--Cobrinha-->
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
