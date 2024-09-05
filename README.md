@@ -63,9 +63,6 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
 </div>
 
   ##
-
-  <img align='right' src="https://komarev.com/ghpvc/?username=walacenascimento&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="WNS" />
-
   
 <!--Cobrinha-->
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
@@ -73,3 +70,19 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
 <!-- STAR -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact)](https://github.com/walacenascimento/github-readme-stats)
+
+
+
+<p align="center">
+ <img align="center" alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbuxbaum&theme=github_dark"/>
+</p>
+<p >
+  <br>  
+  <a href="[https://www.linkedin.com/in/vitorbuxbaum]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vitor.buxbaum@gmail.com"><img alt="LinkedIn" href="mailto:vitor.buxbaum@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <img align='right' src="https://komarev.com/ghpvc/?username=vbuxbaum&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="vbuxbaum" />
+</p>
+
