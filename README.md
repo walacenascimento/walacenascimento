@@ -68,11 +68,6 @@ Sou Desenvolvendor Web Fullstak, fomado pela Trybe em 2022
 ![Snake animation](https://github.com/walacenascimento/walacenascimento/blob/output/github-contribution-grid-snake.svg)
 
 <!-- STAR -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walacenascimento&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacenascimento&layout=compact)](https://github.com/walacenascimento/github-readme-stats)
-
-
-
 <p align="center">
  <img align="center" alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walacenascimento&theme=github_dark"/>
 </p>
