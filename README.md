@@ -10,13 +10,6 @@ Sou um profissional comunicativo, proativo, comprometido, analítico, possuo esc
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
 </ul>
 
-</div>
-  <div align="left" style="display: inline_block">
-    <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
-    <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
-  </div>
-</div>
-
 ##
 
  #### Linguagens e Frameworks:   
