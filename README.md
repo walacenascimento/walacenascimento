@@ -8,7 +8,7 @@ Sou um profissional comunicativo, proativo, comprometido, analítico, possuo esc
 <div>
     <p>Vamos conversar!</p>
     <ul>
-        <li> 💬 - Adoro fazer novas amizades.</li>
+        <li> 💬 - Adoro fazer novas amizades e conversar sobre qualquer assunto.</li>
         <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
     </ul>
 </div>
