@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=600&separator=%3C&lines=%22Ol%C3%A1%2Ceu+sou+Walace+Nascimento+%3CDesenvolvedor+Web+Fullstack%F0%9F%98%8A%22)](https://git.io/typing-svg)
 
-Sou Desenvolvendor Web Fullstak, formado pela [Trybe](https://www.betrybe.com/) em 2022. Atualmente estou participando do projeto [Restic36](https://www.restic36.cepedi.org.br/) Residência em Software Bahia + Tecnologia + Empreendedrismo, na trilha de Desenvolvimetnto Mobile com React Native.
+Sou Desenvolvendor Web Fullstak, formado pela [Trybe](https://www.betrybe.com/) em 2022. Atualmente estou participando do projeto [Restic36](https://www.restic36.cepedi.org.br/) Residência em Software Bahia + Tecnologia + Empreendedrismo, na trilha de Desenvolvimetnto Mobile com React Native. E estudando java nas horas vaga
 
 Possuo conhecimentos em desenvolvimento web com JavaScript, TypeScript, React.js, Node.js, Express,  MySQL, e conhecimetno em controle de versão com Git e GitHub.
 
