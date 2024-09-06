@@ -55,7 +55,7 @@ Sou um profissional comunicativo, proativo, comprometido, analítico, possuo esc
 
  <div style="display: inline_block">
   <a href="https://linkedin.com/in/walace-nascimento-b53280245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5573999898281&text=" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5573999342377&text=" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
