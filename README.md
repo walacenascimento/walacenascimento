@@ -2,7 +2,7 @@
 
 Sou Desenvolvendor Web Fullstak, formado pela [Trybe](https://www.betrybe.com/) em 2022. Atualmente estou participando do projeto [Restic36](https://www.restic36.cepedi.org.br/) Residência em Software Bahia + Tecnologia + Empreendedrismo, na trilha de Desenvolvimetnto Mobile com React Native.
 
-Possuo conhecimentos em desenvolvimento web com JavaScript, TypeScript, React.js, Node.js, Express,  MySQL,controle de versão com Git e GitHub e sistemas operacionais Windows e Linux.
+Possuo conhecimentos em desenvolvimento web com JavaScript, TypeScript, React.js, Node.js, Express,  MySQL, e conhecimetno em controle de versão com Git e GitHub.
 
 Sou um profissional comunicativo, proativo, comprometido, analítico, possuo escuta ativa, inteligência emocional, empatia facilidade com sistemas e habilidades para trabalhar em equipe.
 Experiência em atendimento ao cliente, atuando no Suporte técnico em informática helpdesk,
