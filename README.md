@@ -5,12 +5,9 @@ Sou Desenvolvendor Web Fullstak, formado pela [Trybe](https://www.betrybe.com/) 
 Possuo conhecimentos em desenvolvimento web com JavaScript, TypeScript, React.js, Node.js, Express,  MySQL, e conhecimetno em controle de versão com Git e GitHub.
 
 Sou um profissional comunicativo, proativo, comprometido, analítico, possuo escuta ativa, inteligência emocional, empatia facilidade com sistemas e habilidades para trabalhar em equipe.
-  
-##
 
 </div>
   <div align="left" style="display: inline_block">
-    <li> 🎓 - Estou estundando desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a>.</li>
     <li> 💬 - Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li> ⚡ hobby - 📚 Ler | ⚽ Futebol | 🏃🏿Corrida | 🎮 Game </li>
   </div>
